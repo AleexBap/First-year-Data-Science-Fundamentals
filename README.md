@@ -34,3 +34,5 @@ pip install -r requirements.txt
 ## Changes after executing app.py
 
 ![2](https://github.com/user-attachments/assets/d3ed8c3d-ed89-4494-a242-4dd3fc6eb071)
+
+# Contributors: https://github.com/vramdavtyan
