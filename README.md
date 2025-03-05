@@ -1,3 +1,4 @@
+# Activity 2:
 # 🔥 Fill missing data in DataFrame
 
 # Generate values from description with Ollama and Langchain with Python 3.10
