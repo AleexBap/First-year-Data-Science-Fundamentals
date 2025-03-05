@@ -1,6 +1,0 @@
-pandas
-ollama
-langchain
-langchain-ollama
-pyarrow
-matplotlib
