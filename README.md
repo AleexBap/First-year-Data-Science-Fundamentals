@@ -36,3 +36,7 @@ pip install -r requirements.txt
 ![2](https://github.com/user-attachments/assets/d3ed8c3d-ed89-4494-a242-4dd3fc6eb071)
 
 # Contributors: https://github.com/vramdavtyan
+
+# Teachers:
+- Catia Pesquita, https://orcid.org/0000-0002-1847-9393
+- Eunice Carrasquinha, https://www.cienciavitae.pt/311E-7D8E-6A69
